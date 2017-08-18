@@ -1,0 +1,196 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WP In-Post Ads\n"
+"POT-Creation-Date: 2017-02-28 11:32-0700\n"
+"PO-Revision-Date: 2017-02-28 11:31-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wp-in-post-ads.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/EDD_SL_Plugin_Updater.php:201
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: includes/EDD_SL_Plugin_Updater.php:209
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: includes/EDD_SL_Plugin_Updater.php:396
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: includes/EDD_SL_Plugin_Updater.php:396
+msgid "Error"
+msgstr ""
+
+#: includes/author-ad-unit.php:11
+msgid "Author Ad Unit"
+msgstr ""
+
+#: includes/author-ad-unit.php:16
+msgid "Ad Code"
+msgstr ""
+
+#: includes/author-ad-unit.php:20
+msgid "Enter the ad code provided to you from your ad network."
+msgstr ""
+
+#: includes/license.php:138 includes/license.php:145
+msgid "License Key"
+msgstr ""
+
+#: includes/license.php:145
+msgid ""
+"You received this in your purchase confirmation email. You can also retrieve "
+"it from your account https://wpinpostads.com/your-account"
+msgstr ""
+
+#: includes/license.php:149
+msgid "Enter your license key"
+msgstr ""
+
+#: includes/license.php:160
+msgid "Deactivate License"
+msgstr ""
+
+#: includes/license.php:161 includes/license.php:166
+msgid "Your license is "
+msgstr ""
+
+#: includes/license.php:162
+msgid "Expires on "
+msgstr ""
+
+#: includes/license.php:168
+msgid "Activate License"
+msgstr ""
+
+#: includes/settings.php:33
+msgid "In-Post Ads Options"
+msgstr ""
+
+#: includes/settings.php:57
+msgid "Default Settings"
+msgstr ""
+
+#: includes/settings.php:62 includes/single-post-options.php:30
+msgid "Enter first ad after which paragraph?"
+msgstr ""
+
+#: includes/settings.php:62 includes/settings.php:70 includes/settings.php:78
+msgid ""
+"Enter the paragraph number for the ad to be placed after. This setting can "
+"be overridden on individual posts."
+msgstr ""
+
+#: includes/settings.php:70 includes/single-post-options.php:34
+msgid "Enter second ad after which paragraph?"
+msgstr ""
+
+#: includes/settings.php:78 includes/single-post-options.php:38
+msgid "Enter third ad after which paragraph?"
+msgstr ""
+
+#: includes/settings.php:86
+msgid "Default ad unit"
+msgstr ""
+
+#: includes/settings.php:86
+msgid ""
+"This ad unit is inserted automatically after the paragraph(s) set above. "
+"This setting can be overridden on individual posts."
+msgstr ""
+
+#: includes/settings.php:94
+msgid "Exclude certain post types?"
+msgstr ""
+
+#: includes/settings.php:94
+msgid ""
+"Enter post type slug that should not have an ad inserted automatically (i.e. "
+"products or books). One per line."
+msgstr ""
+
+#: includes/settings.php:108
+msgid "Additional Ad Units"
+msgstr ""
+
+#: includes/settings.php:113
+msgid ""
+"You can create additional ad units if you want to use different ads on "
+"select posts."
+msgstr ""
+
+#: includes/settings.php:113
+msgid ""
+"Override the default ad unit set above with a new ad unit set below. "
+"Optionally use any ad unit below with a shortcode anywhere your site accepts "
+"shortcodes using [inpostads unit=\"X\"] replace X with the number after Ad "
+"Unit."
+msgstr ""
+
+#: includes/settings.php:120 includes/single-post-options.php:50
+msgid "Ad Unit "
+msgstr ""
+
+#: includes/settings.php:129
+msgid "Enter the new ad code provided to you from your ad network."
+msgstr ""
+
+#: includes/single-post-options.php:14
+msgid "Ad Settings"
+msgstr ""
+
+#: includes/single-post-options.php:42
+msgid "Override Ad Unit"
+msgstr ""
+
+#: includes/single-post-options.php:45
+msgid "Default Ad"
+msgstr ""
+
+#: includes/single-post-options.php:46
+msgid "Post Author Ad"
+msgstr ""
+
+#: includes/single-post-options.php:47
+msgid "No Ad"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WP In-Post Ads"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wpinpostads.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A plugin to automatically insert ads in your posts."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Scott DeLuzio"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://scottdeluzio.com"
+msgstr ""
